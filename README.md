@@ -1,7 +1,7 @@
 # [Beecrowd](https://www.beecrowd.com.br) - [Prism](https://prism-dev-platform.herokuapp.com/tela-home.html)
-Algumas Soluções do Beecrowd em uma linguagem portavel, utilizando a plataforma de desenvolvimento prisma
+Algumas Soluções do [Beecrowd](https://www.beecrowd.com.br) em MZDL uma linguagem portável, utilizando a [plataforma de desenvolvimento prisma](https://prism-dev-platform.herokuapp.com/tela-home.html)
 
-Atraves deste formato, é possivel ver as soluções em diversar linguagens de programação como:
+Através deste formato, é possivel ver as soluções em diversar linguagens de programação como:
 
 C, C++, C#, Dart, Go, Java, JavaScript, Kotlin, Lua, Pascal, PHP, Python, Ruby, Rust e Scala
 
