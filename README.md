@@ -9,4 +9,8 @@ visite o site da plataforma prisma
 
 [Plataforma de Desenvolvimento Prisma](https://prism-dev-platform.herokuapp.com/tela-home.html)
 
+A plataforma prisma está sendo desenvolvida pela [11tech](https://11tech.com.br), ainda está em uma versão inicial, por isso permite a conversão somente de algortimos básicos.
+
+Todo o site da plataforma prisma, foi feito na tecnogia do prisma, na sua versão mais avançada, que faz a geração de telas, apis e banco de dados.
+Em breve esta tecnologia estará disponibilizada no site do (prisma)[https://prism-dev-platform.herokuapp.com/tela-home.html].
 
