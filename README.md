@@ -7,6 +7,6 @@ C, C++, C#, Dart, Go, Java, JavaScript, Kotlin, Lua, Pascal, PHP, Python, Ruby, 
 
 visite o site da plataforma prisma
 
-[Plataforma de Desenvolvimento Prisma](https://prism-dev-platform.herokuapp.com/tela-demo.html)
+[Plataforma de Desenvolvimento Prisma](https://prism-dev-platform.herokuapp.com/tela-home.html)
 
 
