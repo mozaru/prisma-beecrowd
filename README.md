@@ -1,4 +1,4 @@
-# [Beecrowd](https://www.beecrowd.com.br) - [Prism](https://prism-dev-platform.herokuapp.com/tela-home.html)
+# [Prisma](https://prism-dev-platform.herokuapp.com/tela-home.html) - [Beecrowd](https://www.beecrowd.com.br)
 Algumas Soluções do [Beecrowd](https://www.beecrowd.com.br) em MZDL uma linguagem portável, utilizando a [plataforma de desenvolvimento prisma](https://prism-dev-platform.herokuapp.com/tela-home.html)
 
 Através deste formato, é possivel ver as soluções em diversar linguagens de programação como:
