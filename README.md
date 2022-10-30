@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmozaru%2Fprisma-beecrowd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
 
 # [Prisma](https://prism-dev-platform.herokuapp.com/tela-home.html) - [Beecrowd](https://www.beecrowd.com.br)
 Algumas Soluções do [Beecrowd](https://www.beecrowd.com.br) em MZDL uma linguagem portável, utilizando a [plataforma de desenvolvimento prisma](https://prism-dev-platform.herokuapp.com/tela-home.html)
